@@ -14,6 +14,6 @@ This is a cheat sheet in crypt field
 
 ## 現代暗号
 - 共通鍵暗号
-    バーナム暗号
-    ストリーム暗号
+    - バーナム暗号
+    - ストリーム暗号
 - 公開鍵暗号
