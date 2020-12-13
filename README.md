@@ -16,4 +16,7 @@ This is a cheat sheet in crypt field
 - 共通鍵暗号
     - バーナム暗号
     - ストリーム暗号
+    - ブロック暗号
+        - DES
+        - AES
 - 公開鍵暗号
