@@ -24,5 +24,5 @@ This is a cheat sheet in crypt field
             - CFB
             - OFB
             - CTR
-        -ECB
+        - ECB
 - 公開鍵暗号
