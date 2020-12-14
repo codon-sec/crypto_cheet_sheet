@@ -19,4 +19,10 @@ This is a cheat sheet in crypt field
     - ブロック暗号
         - DES
         - AES
+            - ECB
+            - CBC
+            - CFB
+            - OFB
+            - CTR
+        -ECB
 - 公開鍵暗号
