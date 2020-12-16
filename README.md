@@ -26,3 +26,10 @@ This is a cheat sheet in crypt field
             - CTR
         - ECB
 - 公開鍵暗号
+    - RSA
+    - ElGamel
+    - Rabin
+    - RSA-OAEP
+    - 楕円曲線暗号
+    - IDベース暗号  
+        個人の識別情報を公開鍵として利用できるため，PKIの必要がない
